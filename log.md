@@ -57,3 +57,7 @@
     some of the finer details of js. Also made the movement stuff way cleaner
     than it was when it was still in the board. Nice to have stuff feeling 
     cleaner. 
+    
+**Link(s) to work**:
+    -[Commit of PieceHandler](https://github.com/deweesa/boardgames/commit/09b8284016e390dad970a6a3ba22c500a879cd33)
+    

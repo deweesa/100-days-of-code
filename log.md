@@ -45,3 +45,15 @@
     went wrong. Maybe this is a situation where typescript shines, not just 
     grabbing things willy-nilly. Want to get more stuff done tomorrow. 
     
+### Day 5: August 31, Tuesday
+
+**Today's Progress**:
+    - Got the PieceHandler object mostly finished. It handles all the basic 
+      movement for each of the pieces. Very close to where you could play a
+      whole chess game on the same computer with someone. 
+
+**Thoughts**:
+    Had fewer js frustrations today, or moreover have a better feel for what
+    some of the finer details of js. Also made the movement stuff way cleaner
+    than it was when it was still in the board. Nice to have stuff feeling 
+    cleaner. 

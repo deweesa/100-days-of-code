@@ -61,3 +61,17 @@
 **Link(s) to work**:
     -[Commit of PieceHandler](https://github.com/deweesa/boardgames/commit/09b8284016e390dad970a6a3ba22c500a879cd33)
     
+### Day 6: September 1, Wednesday
+
+**Today's progress**:
+    - Worked on Back End/APIs exercises from freeCodeCamp
+
+**Thoughts**:
+    I like the way that FCC handles their exercises. Compared to the other 
+    express tutorials I've looked at so far this is the easiest to follow 
+    along with. Feel like I have a better understanding of of the different
+    express methods and how to use them. 
+
+**Link(s) to work**:
+    - [npm work](://github.com/deweesa/boilerplate-npm)
+    - [express work](https://github.com/deweesa/boilerplate-express)

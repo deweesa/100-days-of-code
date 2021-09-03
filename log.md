@@ -75,3 +75,18 @@
 **Link(s) to work**:
     - [npm work](://github.com/deweesa/boilerplate-npm)
     - [express work](https://github.com/deweesa/boilerplate-express)
+
+### Day 7: September 2, Thursday
+
+**Today's progress**:
+    - Worked on mongodb/mongoose exercises from FCC
+
+**Thoughts**:
+    So far working with mongodb w/mongoose is a lot like working with 
+    sqlalchemy. It has a similair feature of chaining queries, but the 
+    structure of having a `done()` method is something new. Still adjusting 
+    to the use of callback functions with js.
+
+**Link(s) to work**:
+    - [MongoDB and Mongoose Exercises](https://github.com/deweesa/boilerplate-mongomongoose)
+

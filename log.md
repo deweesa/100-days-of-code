@@ -90,3 +90,14 @@
 **Link(s) to work**:
     - [MongoDB and Mongoose Exercises](https://github.com/deweesa/boilerplate-mongomongoose)
 
+### Day 8: September 3, Friday
+
+Today's progress:
+    - Completed tiemstamp microservice from FCC
+
+**Thoughts**:
+    It was a pretty straightforward assignment, fairly simple. Hardest part
+    was some mistakes I was making with the Date object. 
+
+**Link(s) to work:
+    - (Timestamp Microservice)[https://github.com/deweesa/boilerplate-project-timestamp]

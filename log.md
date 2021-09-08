@@ -92,7 +92,7 @@
 
 ### Day 8: September 3, Friday
 
-Today's progress:
+**Today's progress**:
     - Completed tiemstamp microservice from FCC
 
 **Thoughts**:
@@ -101,3 +101,32 @@ Today's progress:
 
 **Link(s) to work:
     - (Timestamp Microservice)[https://github.com/deweesa/boilerplate-project-timestamp]
+
+### Day 9: September 4, Saturday
+**Today's progress**:
+    - Off day
+
+### Day 10: September 5, Sunday
+**Today's progress**:
+    - Completed headerparser from FCC
+
+**Link(s) to work**:
+    - [Header Parser](https://github.com/deweesa/boilerplate-project-headerparserhttps://github.com/deweesa/boilerplate-project-headerparser)
+
+### Day 11: September 6, Monday
+**Today's progress**:
+    - Off day
+
+### Day 12: September 7, Tuesday
+**Today's progress**:
+    - Worked on the URL shortener, now validates the url (if no protocol is specified)
+      and just sends back the IP address from `dns.lookup()`. 
+    
+**Thoughts**:
+    - Had some trouble figuring out the settings for the `dns.lookup()` and figuring out
+      that if the url has `http(s)` in it it would error out the lookup. but now I know 
+      next steps are to get it hooked to mongodb and be able to parse out the `http(s)`
+      before feeding it to `lookup()`
+
+**Link(s) to work:
+    - [URL Shortener MS](https://github.com/deweesa/boilerplate-project-urlshortener)
